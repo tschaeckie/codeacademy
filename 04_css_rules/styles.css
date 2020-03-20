@@ -62,6 +62,7 @@ body {
     width: 60%;
     background-color: white;
     color: black;
+    opacity: 0.75;
   }
   
   .content {
@@ -81,4 +82,5 @@ body {
     box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
     float: left;
     width: 50px;
-  }  
+  }
+  
